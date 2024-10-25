@@ -1,5 +1,18 @@
 body{ background-image: linear-gradient(#c8d9ff,#abc1ff#8fa9ff);
-colo: #292055
-fonte-site: 35px;
+color;: #292055;
+fonte-size: 35px;
+}
 
+h1 { color: black;
+
+}
+h2
+{  background-color: #4b69c5;
+
+color:#292055;
+}
+
+img {
+    width: 500px;
+    hight: 300px;
 }
