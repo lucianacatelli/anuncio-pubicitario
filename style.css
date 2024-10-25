@@ -1,5 +1,5 @@
 body{ 
- background-image: linear-gradient(#c8d9ff,#abc1ff#8fa9ff);
+ background-image: linear-gradient(#c8d9ff,#abc1ff,#8fa9ff);
 color: #292055;
 font-size: 35px;
 }
@@ -15,5 +15,5 @@ color:#292055;
 
 img {
     width: 500px;
-    height: 300px;
+    height: 500px;
 }
